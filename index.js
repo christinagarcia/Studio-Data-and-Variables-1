@@ -46,7 +46,7 @@ console.log("* weather: " + weatherStatus + "\n" +
 "\n" + dashedLine)
 console.log ("> OVERALL STATUS" + "\n" +
 dashedLine)
-console.log(" * Clear for takeoff: YES")
+console.log("* Clear for takeoff: YES")
 // When done, have your TA check your code.
 
 
